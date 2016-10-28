@@ -1,7 +1,6 @@
 import cv2, os
 import numpy as np
 from PIL import Image
-import sys
 
 
 faceCascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
